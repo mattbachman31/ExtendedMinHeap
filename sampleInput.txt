@@ -1,0 +1,41 @@
+10
+insertContestant <1> <70>
+insertContestant <2> <25>
+insertContestant <3> <28>
+insertContestant <4> <25>
+insertContestant <5> <15>
+showContestants
+insertContestant <6> <65>
+insertContestant <7> <5>
+insertContestant <8> <0>
+insertContestant <9> <10>
+insertContestant <10> <55>
+showContestants
+losePoints <2> <4>
+earnPoints <5> <30>
+findContestant <5>
+earnPoints <1> <15>
+losePoints <10> <15>
+losePoints <10> <100>
+earnPoints <9> <10>
+showContestants
+showHandles
+eliminateWeakest
+eliminateWeakest
+eliminateWeakest
+eliminateWeakest
+eliminateWeakest
+insertContestant <1> <70>
+insertContestant <2> <25>
+insertContestant <3> <28>
+insertContestant <4> <25>
+insertContestant <5> <15>
+showContestants
+insertContestant <6> <65>
+insertContestant <7> <5>
+insertContestant <8> <0>
+insertContestant <9> <10>
+insertContestant <10> <5>
+showContestants
+showHandles
+crownWinner
